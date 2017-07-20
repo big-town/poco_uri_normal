@@ -5,4 +5,5 @@
 Опции в extfilter.ini должны быть установлены:
 
 url_normalization = true
+
 remove_dot = true
