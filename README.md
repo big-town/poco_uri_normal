@@ -7,3 +7,6 @@
 url_normalization = true
 
 remove_dot = true
+
+CentOS требует установленной переменной LD_LIBRARY_PATH
+для запуска пример в файле start.sh
